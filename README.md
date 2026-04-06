@@ -3,7 +3,7 @@
 <img align = "right" alt="coding" width = "400" src = "https://miro.medium.com/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndivyabharathi&label=Profile%20views&color=0e75b6&style=flat" alt="ndivyabharathi" /> </p>
 
-- 🌱 I’m currently learning **Django, React, Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Python, Machine Learning, Web Development**
 
